@@ -1,0 +1,9 @@
+{
+    "env": {
+        "MYSQL_USER": "root",
+        "MYSQL_PASSWORD": "mys4rootm",
+        "MYSQL_DATABASE": "apiPHP",
+        "MYSQL_HOST": "172.30.3.200",
+        "MYSQL_PORT": 3306
+    }
+}
